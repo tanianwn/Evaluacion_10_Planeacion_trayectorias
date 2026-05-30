@@ -1,3 +1,4 @@
+
 # Evaluacion_10_Planeacion_trayectorias
 
 En este repositorio se genera la planeación de trayectorias de un robot móvil de accionamiento diferencial para que su recorrido dibuje el rostro de mi persona. Para lograrlo, se extrajeron coordenadas específicas a partir de una imagen de referencia y se implementó un algoritmo de control para que el robot siguiera la ruta con la mayor presicion posible a los rasgos físicos (ojos, boca, cara, labios, cabello, etc.).
@@ -63,8 +64,6 @@ Al ejecutar la simulación en MATLAB, se obtuvo una representación visual muy f
 <p align="center">
   <img src="https://github.com/user-attachments/assets/00c9bba5-ddc2-48f5-893c-50c97545616d" width="48%" alt="Imagen Original" />
   <img src="https://github.com/user-attachments/assets/1b0b2669-8b4d-4975-ac37-938bffed913c" width="48%" alt="Imagen waypoints" />
-  <img src="https://github.com/user-attachments/assets/e8dc2d79-09d4-4d4f-8239-6394e0631f18" width="48%" alt="Trayectoria Final en MATLAB" />
+  <img src="https://github.com/user-attachments/assets/bbbc249f-b6ce-4c61-b054-9500c1d1eaa2" width="48%" alt="Trayectoria Final en MATLAB" />
 </p>
-
-
 
